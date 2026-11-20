@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.knowledge-local/
+.ideas-local/
+# Old duplicate copy of the whole project; not part of the deployed site.
+resume-reference/
